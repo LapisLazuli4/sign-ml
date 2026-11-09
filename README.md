@@ -51,7 +51,7 @@ On a person whose recordings were **not** used in training, the model scored **a
 - Browser front end (index.html, app.js)
 - requirements.txt
 
-##Usage
+## Usage
 ### 1. Record samples
 
 Each contributor runs this on their own PC:
